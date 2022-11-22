@@ -118,3 +118,67 @@ body::-webkit-scrollbar {
     position: absolute;
     z-index: -2;
 }
+
+.text-1 {
+    font-size: 70px;
+    position: absolute;
+    z-index: 2;
+    color: white;
+    margin-left: 30px;
+}
+
+.text-2 {
+    font-size: 50px;
+    position: absolute;
+    z-index: 2;
+    color: white;
+    margin-left: 30px;
+    font-family: 'Noto Sans KR', sans-serif;
+    margin-top: 500px;
+}
+
+.dot3 {
+    height: 800px;
+    width: 800px;
+    background: linear-gradient(132.53deg,rgba(56, 93, 255, 0) 14.69%,#00d269 61.48%);
+    border-radius: 50%;
+    display: inline-block;
+    position: absolute;
+    top: 100px;
+    left: 200px;
+    z-index: -1;
+}
+
+.dot4 {
+    height: 500px;
+    width: 500px;
+    background: linear-gradient(132.53deg,rgba(56,230,255,0) 14.69%,#00c8d2 61.48%);
+    border-radius: 50%;
+    display: inline-block;
+    position: absolute;
+    top: 500px;
+    left: 700px;
+    z-index: -1;
+}
+
+.text-3 {
+    font-size: 100px;
+    position: absolute;
+    top: 200px;
+    left: 1000px;
+}
+
+.text-4 {
+    font-size:80px;
+    position: absolute;
+    top: 400px;
+    left: 1200px;
+}
+
+.imgg {
+    position: absolute;
+    top: 100px;
+    left: 200px;
+    height: 300px;
+    width: 300px;
+}
